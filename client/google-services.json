@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "322625783624",
+    "firebase_url": "https://absence-cce8d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "absence-cce8d",
+    "storage_bucket": "absence-cce8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322625783624:android:19f7b013e201d21ce2557d",
+        "android_client_info": {
+          "package_name": "com.koleksi.absence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuJLNSG9fGbdC7bEZeEXXF82wHYgL2Hyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
